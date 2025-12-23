@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Computer Science student with a strong interest in **Web Development & Machine Learning**
-- 🚀 Currently serving as **Web Development Lead**
+- 🚀 Currently serving as **Web Developer**
 - 🧠 Completed **Industrial Training in Machine Learning from R3 Systems**
 - 💡 Passionate about building clean, scalable, and user-friendly applications
 - 🌱 Always learning and improving through real-world projects
