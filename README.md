@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hey 👋 I'm Mohit Bhole</h1>
-<h3 align="center">Living for fun and rush...</h3>
+<h3 align="center">LIVING FOR FUN AND RUSH...</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-bhole-03a354298">
