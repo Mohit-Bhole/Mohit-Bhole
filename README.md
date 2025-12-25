@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Bhole</h1>
 <h3 align="center">Web Developer | Computer Science Student | ML Enthusiast</h3>
-
 <p align="center">
   <a href="https://github.com/Mohit-Bhole">
     <img src="https://komarev.com/ghpvc/?username=Mohit-Bhole&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -62,8 +61,9 @@ Interactive ML web apps with clean UI and real-time predictions(Loan approval sy
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Bhole&theme=tokyonight&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Bhole&theme=tokyonight&cache_seconds=1800" height="160"/>
 
 </p>
 
