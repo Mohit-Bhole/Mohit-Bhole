@@ -62,8 +62,9 @@ Interactive ML web apps with clean UI and real-time predictions(Loan approval sy
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Bhole&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Bhole&theme=tokyonight&cache_seconds=1800" height="160"/>
+
 </p>
 
 ---
