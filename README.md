@@ -10,7 +10,7 @@
   />
 </p>
 
-<h2 align="center">Web Developer | Computer Science Student | ML Enthusiast</h2>
+<h2 align="center">Web Developer | Computer Science Student | System Administrator</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohit-Bhole&label=Profile%20Views&color=0e75b6&style=flat" />
