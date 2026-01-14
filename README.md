@@ -59,23 +59,11 @@ Interactive ML web apps with clean UI and real-time predictions
 👉 **Explore my repositories for more projects**
 
 ---
-
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-    height="160"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=tokyonight&v=1)
 
-  <img
-    src="https://streak-stats.demolab.com?user=Mohit-Bhole&theme=dark"
-    alt="GitHub Streak"
-    height="160"
-  />
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-Bhole&theme=tokyonight&v=1)
 ---
 
 ## 🤝 Connect With Me  
