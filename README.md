@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mohit Bhole</h1>
-<h3 align="center">Web Developer | Computer Science Student | ML Enthusiast</h3>
+<!-- ===================== -->
+<!--   PROFILE BANNER     -->
+<!-- ===================== -->
 
 <p align="center">
-  <a href="https://github.com/Mohit-Bhole">
-    <img src="https://komarev.com/ghpvc/?username=Mohit-Bhole&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/Mohit-Bhole/Mohit-Bhole/7d92cd5fdea7b61d5522e5e0e0c13deeb3d49e4e/file_00000000d6547208bb01c67bc72bc8c3.png"
+    alt="Anime Developer Banner"
+    width="100%"
+  />
+</p>
+
+<h2 align="center">Web Developer | Computer Science Student | ML Enthusiast</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohit-Bhole&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👋 About Me
 
 - 🎓 Computer Science student with a strong interest in **Web Development** and **Machine Learning**
-- 🚀 Currently working as a **Web Developer**
+- 💼 Currently working as a **Web Developer**
 - 🧠 Completed **Industrial Training in Machine Learning** from **R3 Systems**
-- 💡 Passionate about building **clean, scalable, and user-friendly** applications
-- 🌱 Continuously learning through **hands-on projects and experimentation**
+- 🛠️ I enjoy building **clean, practical, and user-focused applications**
+- 🌱 Learning by **doing, breaking, and improving**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 <p>
@@ -43,30 +52,30 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-🔹 **ASL Bridge**  
-Bridges communication gaps using Machine Learning and Web Technologies  
-*(Sign Language → Text & Speech)*  
+### 🔹 ASL Bridge  
+Bridges communication gaps using Machine Learning & Web Technologies  
+**Sign Language → Text & Speech**
 
-🔹 **Loan Approval Prediction System**  
-Machine-learning-based loan approval system with EMI calculator and bank recommendations  
+---
 
-🔹 **ML-Based Applications**  
+### 🔹 Loan Approval Prediction System  
+Machine-learning-based loan approval system with:
+- EMI calculator  
+- Bank recommendations  
+
+---
+
+### 🔹 ML-Based Applications  
 Interactive ML web apps with clean UI and real-time predictions  
-*(ASL Bridge, Loan Approval System)*  
+*(ASL Bridge, Loan Approval System)*
 
 👉 **Explore my repositories for more projects**
 
 ---
-## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit-Bhole&show_icons=true&theme=tokyonight&v=1)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-Bhole&theme=tokyonight&v=1)
----
-
-## 🤝 Connect With Me  
+## 🤝 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/mohit-bhole-03a354298/" target="_blank">
